@@ -5,7 +5,7 @@
 - 🎓 I Graduated in Mechanical Engineering from [Guru Ghasidas University (A Central University)](https://www.ggu.ac.in/) in 2018 with an A+ grade. Later I wrote GATE (Graduate Aptitude Test In Engineering) Exam 2019 and passed with 99.14 percentile (AIR-1426).
 - 🎯 I firmly believe that every industry needs the best in the class team; to rise above traditional methods by filtering and analysing the wind range of data around us, to aim for the bull's eye. Thus, apart from the Mechanical domain, I am learning Programming, Data Science/ML/DL through an [Online B.Sc Degree in Programming and Data Science](https://onlinedegree.iitm.ac.in/) by IIT-Madras.
 
-- 🔭 I’m currently working on MTech project ["Material Design using Deep Learning"](Link)
+- 🔭 I’m currently working on MTech project **"Material Design using Deep Learning"**
 
 - 👨‍💻 My portfolio (website) and all my projects are available at [heydido.me](https://heydido.me/)
 
