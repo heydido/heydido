@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on MTech project ["Material Design using Deep Learning"](Link)
 
-- 👨‍💻 All of my projects are available at [heydido.me](heydido.me)
+- 👨‍💻 All of my projects are available at [heydido.me](https://heydido.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
