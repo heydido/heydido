@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
-<img src="/images/me_at_iitd.png" alt="Me at IITD" class="center">
+<img src="/images/me_at_iitd.png" alt="Me at IITD" class="center" width="450" height="300">
 <h3 align="center">A Mechanical Engineer 👨🏻‍🔧 on the road to the world of Data and AI</h3>
 
 
