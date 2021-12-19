@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <h3 align="center">A Mechanical Engineer 👨🏻‍🔧 on the road to the world of Data and AI</h3>
 
-- 💼 I currently work as Placement Coordinator of the [Applied Mechanics department](https://www.linkedin.com/in/applied-mechanics-iit-delhi/) at the [Office of Career Services](https://ocs.iitd.ac.in/ocs/index.php) (Formerly Training and Placement Cell) and pursue M.Tech from the design stream of the same department at IIT-Delhi.
+- 💼 I currently work as Placement Coordinator of the [Applied Mechanics](https://www.linkedin.com/in/applied-mechanics-iit-delhi/) department at the [Office of Career Services](https://ocs.iitd.ac.in/ocs/index.php) (Formerly Training and Placement Cell) and pursue M.Tech from the design stream of the same department at IIT-Delhi.
 - 🎓 I Graduated in Mechanical Engineering from [Guru Ghasidas University (A Central University)](https://www.ggu.ac.in/) in 2018 with an A+ grade. Later I wrote GATE (Graduate Aptitude Test In Engineering) Exam 2019 and passed with 99.14 percentile (AIR-1426).
 - 🎯 I firmly believe that every industry needs the best in the class team; to rise above traditional methods by filtering and analysing the wind range of data around us, to aim for the bull's eye. Thus, apart from the Mechanical domain, I am learning Programming, Data Science/ML/DL through an [Online B.Sc Degree in Programming and Data Science](https://onlinedegree.iitm.ac.in/) by IIT-Madras.
 
