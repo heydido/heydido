@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
+<img src="/images/me_at_iitd.png" alt="Me at IITD" class="center">
 <h3 align="center">A Mechanical Engineer 👨🏻‍🔧 on the road to the world of Data and AI</h3>
-<img src="/images/me_at_iitd.png" alt="Me at IITD">
+
 
 - 💼 I currently work as Placement Coordinator of the [Applied Mechanics department](https://www.linkedin.com/in/applied-mechanics-iit-delhi/) at the [Office of Career Services](https://ocs.iitd.ac.in/ocs/index.php) (Formerly Training and Placement Cell) and pursue M.Tech from the design stream of the same department at IIT-Delhi.
 - 🎓 I Graduated in Mechanical Engineering from [Guru Ghasidas University (A Central University)](https://www.ggu.ac.in/) in 2018 with an A+ grade. Later I wrote GATE (Graduate Aptitude Test In Engineering) Exam 2019 and passed with 99.14 percentile (AIR-1426).
