@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aashish Kumar</h1>
 <h3 align="center">A Mechanical Engineer 👨🏻‍🔧 on the road to the world of Data and AI</h3>
 
-- 💼 I currently work as Placement Coordinator of the [Applied Mechanics](https://www.linkedin.com/in/applied-mechanics-iit-delhi/) department at the [Office of Career Services](https://ocs.iitd.ac.in/ocs/index.php) (Formerly Training and Placement Cell) and pursue M.Tech from the design stream of the same department at IIT-Delhi.
-- 🔭 I’m currently working on MTech project: **"Material Design using Deep Learning"**
+- 💼 I recently joined **Pepperfry** as an AI engineer, prior to that I was pursuing M.Tech in Engineering analysis and design from the Department of Applied Mechanics, IIT Delhi. During my M.Tech degree, I worked as **Placement Coordinator** of the Applied Mechanics department at the Office of Career Services (Formerly Training and Placement Cell).
+- 🔭 My MTech project work was on accelerating metamaterial design using deep learning, which is titled, "𝐂𝐨𝐦𝐩𝐮𝐭𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐝𝐞𝐬𝐢𝐠𝐧 𝐨𝐟 𝐞𝐱𝐭𝐫𝐞𝐦𝐞 𝐦𝐞𝐭𝐚𝐦𝐚𝐭𝐞𝐫𝐢𝐚𝐥 𝐮𝐬𝐢𝐧𝐠 𝐝𝐞𝐞𝐩 𝐥𝐞𝐚𝐧𝐢𝐧𝐠." 
   - The project is centred on using deep learning approaches to design the microstructure of metamaterials, aiming to significantly reduce the time and cost involved in the microstructure topology optimization as compared to conventional techniques.
   - Tools/Techniques used: Deep Learning, CNN, Transfer Learning, Encoder-Decoder, HDF5
   - Framework/Libraries used: PyTorch, NumPy, Pandas, SciPy, Matplotlib and others.
