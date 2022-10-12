@@ -6,7 +6,7 @@
   - The project is centred on using deep learning approaches to design the microstructure of metamaterials, aiming to significantly reduce the time and cost involved in the microstructure topology optimization as compared to conventional techniques.
   - Tools/Techniques used: Deep Learning, CNN, Transfer Learning, Encoder-Decoder, HDF5
   - Framework/Libraries used: PyTorch, NumPy, Pandas, SciPy, Matplotlib and others.
-- 🎯 I firmly believe that every industry needs the best in the class team; to rise above traditional methods by filtering and analysing the wind range of data around us, to aim for the bull's eye. Thus, apart from the Mechanical domain, I am learning Programming, Data Science/ML/DL through an [Online B.Sc Degree in Programming and Data Science](https://onlinedegree.iitm.ac.in/) by IIT-Madras.
+- 🎯 I firmly believe that every industry needs the best in the class team; to rise above traditional methods by filtering and analysing the wind range of data around us, to aim for the bull's eye. Thus, apart from the Mechanical domain, I am learning Programming, Data Science/ML/DL through an [Online B.S Degree in Data Science and Applications](https://onlinedegree.iitm.ac.in/) by IIT-Madras.
 - 🎓 I Graduated in Mechanical Engineering from [Guru Ghasidas University (A Central University)](https://www.ggu.ac.in/) in 2018 with an A+ grade. Later I wrote GATE (Graduate Aptitude Test In Engineering) Exam 2019 and passed with 99.14 percentile (AIR-1426).
 - ⚡ When I am not in work or study mode, either I read novels or watch Disney movies. **Believing in the process; One day, I'll know, How far I'll go.** ✌
 - 👨‍💻 Find out more, visit my website: [heydido.me](https://www.heydido.me/)
