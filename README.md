@@ -1,9 +1,7 @@
-❔: A Data professional with a forever learner mindset, solving business problem statements by adding human context to the data. 
+❔: Strategic and result-driven data professional with 2+ years of relevant experience across various disciplines, including Data Analytics, Data Science, Machine Learning, Deep Learning and MLOps. Equipped with excellent storytelling skills through data, communication skills, work ethics, and outstanding academic credentials from top-tier colleges.
 
-🎯: I firmly believe that every industry at present needs the best in the class team to rise above traditional methods by filtering and analyzing the wide range of data around us and aiming for the bull's eye. 
+🎓: Pursued M.Tech from IIT Delhi. My MTech project got me into the world of data, where I learnt and used Data Science & Machine Learning tech/frameworks like - Python, NumPy, Pandas, CNN, Encoder-Decoder, PyTorch, and SciPy.
 
-🎓: I have pursued M.Tech in Engineering Analysis and Design from the Department of Applied Mechanics, IIT Delhi. My MTech project was on accelerating metamaterial design using Deep Learning, titled "Computational design of Extreme Metamaterials using Deep Learning".
+🎓: Graduated in Mechanical Engineering from Guru Ghasidas University (A Central University) in 2018 with an A+ grade. Later, I took the GATE'19 (Graduate Aptitude Test In Engineering) and scored 99.14 percentile, which got me into IIT Delhi.
 
-🎓: I Graduated in Mechanical Engineering from Guru Ghasidas University (A Central University) in 2018 with an A+ grade. Later I wrote GATE (Graduate Aptitude Test In Engineering) exam in 2019 and passed with a 99.14 percentile.
-
-💡: When I am not working or studying, I read novels (mostly self-help and finance). Believing in the process, One day, I'll know How far I'll go.
+💡: A forever learning mindset and strongly believes in: "Follow the process, the outcome will follow."
