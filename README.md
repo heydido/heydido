@@ -1,4 +1,4 @@
-❔: Strategic and result-driven data professional with 2+ years of relevant experience across various disciplines, including Data Analytics, Data Science, Machine Learning, Deep Learning and MLOps. Equipped with excellent storytelling skills through data, communication skills, work ethics, and outstanding academic credentials from top-tier colleges.
+❔: Strategic and result-driven data professional with 2+ years of relevant experience across various disciplines, including Data Analytics, Data Science, Machine Learning, Deep Learning, MLOps and LLMs. Equipped with excellent storytelling skills through data, communication skills, work ethics, and outstanding academic credentials from top-tier colleges.
 
 🎓: Pursued M.Tech from IIT Delhi. My MTech project got me into the world of data, where I learnt and used Data Science & Machine Learning tech/frameworks like - Python, NumPy, Pandas, CNN, Encoder-Decoder, PyTorch, and SciPy.
 
